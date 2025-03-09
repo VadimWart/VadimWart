@@ -1,4 +1,4 @@
-<h2 align="center">Hello! My name is Vadim and I'm a passionate Frontend Developer</h2>
+<h2 align="center">My name is Vadim, I am a passionate Frontend Developer, and I am currently training to become a Fullstack Developer.</h2>
 
 ###
 
